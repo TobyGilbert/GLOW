@@ -1,0 +1,13 @@
+
+GLOW/\.vs
+
+*.exe
+
+GLOW/Debug/
+GLOW/GLOW/Debug
+
+GLOW/GLOW/contrib
+GLOW/GLOW/x64
+*.bmp
+
+GLOW/x64/Debug/
